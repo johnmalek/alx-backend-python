@@ -2,6 +2,8 @@
 """
 A function
 """
+
+
 def add(a: float, b: float) -> float:
     """
     A function that adds float numbers
