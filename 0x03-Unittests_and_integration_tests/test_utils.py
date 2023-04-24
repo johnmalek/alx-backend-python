@@ -1,6 +1,6 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 """
-A python class
+A python module
 """
 import unittest
 from typing import Dict, Union, Tuple
